@@ -33,4 +33,15 @@ section#cel{
     left: 50%;
     transform: translate(-50%, -50%);
     background:   url(../pacote-d013/imagens/frame-iphone.png) no-repeat;
+    
+}
+iframe#tela{
+    height: 470px;;
+    width: 266px;
+    position: relative;
+    top: 50.5%;
+    left: 50.5%;
+    transform: translate(-50%, -50%);
+    
+
 }
